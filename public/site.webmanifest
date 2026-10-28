@@ -1,0 +1,12 @@
+{
+  "name": "GIF Masher",
+  "short_name": "GIF Masher",
+  "description": "Combine GIFs into one, in the order you add them.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06070c",
+  "theme_color": "#06070c",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
